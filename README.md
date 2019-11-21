@@ -9,8 +9,7 @@ javac ChessMain.java
 java ChessMain 
 
 
-—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-
+##
 ### Step 1:  Need to put the name in the system if it is player 
 
 Welcome to Chess!
@@ -33,7 +32,6 @@ Enter Name:
 
 Enter the difficulty : (Min=1,Max=1)
 
-—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
 
 ## Additional information about the code 
 
@@ -41,8 +39,5 @@ Enter the difficulty : (Min=1,Max=1)
    1. Pawns always move one step at a time - No 2 steps in the beginning
    2. For AI - each piece, can only move 1 step at a time.  
   
-
-—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-
 
 
