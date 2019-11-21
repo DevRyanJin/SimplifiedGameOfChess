@@ -2,33 +2,34 @@
 
 - Chess is played on an 8 by 8 board, with two players each controlling a set of 16 pieces. The goal of the game is to capture your opponent’s King. The human player always plays first. The human player will be able to play again after a match is finished and play as many matches as they want.
 
-## To complie 
+## To complie from the command line 
 javac ChessMain.java
 
-## To run 
+## To run from the command line 
 java ChessMain 
 
 
-##
-### Step 1:  Need to put the name in the system if it is player 
+## How to play 
+
+Step 1:  Need to put the name in the system if it is player 
 
 Welcome to Chess!
 Enter your details
 Enter Name: 
 
 
-### Step2: choose the mode to play with Human or AI 
+Step2: choose the mode to play with Human or AI 
 
 Enter Mode to Play (1: With Human, 2: With Computer)
 
 
-### Step2-1: If you choose to play with Human, you need to name player2 as well.. 
+Step2-1: If you choose to play with Human, you need to name player2 as well.. 
 
 Enter player-2 details
 Enter Name: 
 
 
-### Step3: choose the difficulty of the game 
+Step3: choose the difficulty of the game 
 
 Enter the difficulty : (Min=1,Max=1)
 
